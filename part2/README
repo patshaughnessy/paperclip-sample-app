@@ -1,0 +1,10 @@
+Sample app illustrating how to use the Paperclip plugin.
+
+For a tutorial explaining how this sample app was written, see:
+  http://patshaughnessy.net/2009/4/30/paperclip-sample-app
+
+Coming soon: a second sample app showing how to save the uploaded files directly in the database
+and not on the server's file system. This will use my modified version of Paperclip that has a
+database storage module. See: http://patshaughnessy.net/paperclip-database-storage for more information.
+
+Copyright (c) 2009 [Patrick Shaughnessy], released under the MIT license

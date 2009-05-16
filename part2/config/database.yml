@@ -1,0 +1,6 @@
+development:
+    adapter: mysql
+    database: paperclip_sample_app_development
+    username: root
+    password: 
+    host: localhost
