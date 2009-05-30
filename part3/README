@@ -6,8 +6,7 @@ See: http://patshaughnessy.net/2009/4/30/paperclip-sample-app
 part2: First app modified to download files through a controller.
 See: http://patshaughnessy.net/2009/5/16/paperclip-sample-app-part-2-downloading-files-through-a-controller
 
-Coming soon: a third sample app showing how to save the uploaded files directly in the database
-and not on the server's file system. This will use my modified version of Paperclip that has a
-database storage module. See: http://patshaughnessy.net/paperclip-database-storage for more information.
+part3: Second app modified to save files in database BLOB columns.
+See: http://patshaughnessy.net/2009/5/29/paperclip-sample-app-part-3-saving-file-attachments-in-a-database-blob-column
 
 Copyright (c) 2009 [Patrick Shaughnessy], released under the MIT license
